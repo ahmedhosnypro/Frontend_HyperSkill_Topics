@@ -29,3 +29,5 @@ Y
 )Multi-line programs/Pine in a snowfall.js,d\9\d9d17c6d216d7ee99e0e58b506f8bd0614dcb9fe
 _
 /Overview of the basic program/Find the error.js,7\2\722210b787e0877d00d95ec598dcc9ca49104c2b
+X
+(Strings and Numbers/Printing the type.js,e\3\e38bce8fde9731cf9a6590b085f2ae5697ed357d
